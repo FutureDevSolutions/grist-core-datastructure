@@ -80,7 +80,6 @@ jspm_packages/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
 
 # Test
 timings.txt
@@ -110,3 +109,4 @@ xunit.xml
 
 # Installed edition written by the post-install hook (install_edition.sh).
 /grist-edition
+config.bat
